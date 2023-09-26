@@ -3,12 +3,11 @@ This HTML, CSS, and JavaScript code creates a simple Pac-Man animation that move
 ### Code Description:
 - The HTML file sets up a container (`#container`) and an image (`#pac-right`) of Pac-Man.
 - The CSS file styles the container and Pac-Man image, setting their dimensions, positioning, and appearance.
-- The JavaScript code defines a `move()` function to animate Pac-Man's movement back and forth within the container. 
+- The JavaScript code defines a `move()` function to animate Pac-Man's movement back and forth within the container. This function is called repeatedly using `setInterval()`.
 
 ### Future Improvements:
 - Make the Pac-Man animation smoother by using CSS transitions or animations.
 - Allow Pac-Man to move in multiple directions (e.g., up, down, left, right) based on user input.
-- Implement collision detection with walls or obstacles within the container.
 
 ### How to Run the Code:
 To run the code:
