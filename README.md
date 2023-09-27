@@ -1,4 +1,4 @@
-This HTML, CSS, and JavaScript code creates a simple Pac-Man animation that moves Pac-Man left and right within a specified container.
+# PacMan
 
 ### Code Description:
 - The HTML file sets up a container (`#container`) and an image (`#pac-right`) of Pac-Man.
